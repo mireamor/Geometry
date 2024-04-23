@@ -65,8 +65,8 @@ artifacts/
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
-# StyleCop
-StyleCopReport.xml
+# StyleCops
+StyleCop.xml
 
 # Files built by Visual Studio
 *_i.c
